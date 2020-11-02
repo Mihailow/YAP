@@ -1,0 +1,52 @@
+E:\учёба\visual studio\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.exe
+E:\учёба\visual studio\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.deps.json
+E:\учёба\visual studio\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.runtimeconfig.json
+E:\учёба\visual studio\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.runtimeconfig.dev.json
+E:\учёба\visual studio\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.dll
+E:\учёба\visual studio\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.pdb
+E:\учёба\visual studio\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.csprojAssemblyReference.cache
+E:\учёба\visual studio\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.csproj.CoreCompileInputs.cache
+E:\учёба\visual studio\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.AssemblyInfoInputs.cache
+E:\учёба\visual studio\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.AssemblyInfo.cs
+E:\учёба\visual studio\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.dll
+E:\учёба\visual studio\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.pdb
+E:\учёба\visual studio\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.genruntimeconfig.cache
+E:\учёба\visual studio\github\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.exe
+E:\учёба\visual studio\github\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.deps.json
+E:\учёба\visual studio\github\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.runtimeconfig.json
+E:\учёба\visual studio\github\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.runtimeconfig.dev.json
+E:\учёба\visual studio\github\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.dll
+E:\учёба\visual studio\github\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.pdb
+E:\учёба\visual studio\github\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.csprojAssemblyReference.cache
+E:\учёба\visual studio\github\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.csproj.CoreCompileInputs.cache
+E:\учёба\visual studio\github\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.AssemblyInfoInputs.cache
+E:\учёба\visual studio\github\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.AssemblyInfo.cs
+E:\учёба\visual studio\github\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.dll
+E:\учёба\visual studio\github\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.pdb
+E:\учёба\visual studio\github\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.genruntimeconfig.cache
+E:\учёба\visual studio\YAP\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.exe
+E:\учёба\visual studio\YAP\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.deps.json
+E:\учёба\visual studio\YAP\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.runtimeconfig.json
+E:\учёба\visual studio\YAP\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.runtimeconfig.dev.json
+E:\учёба\visual studio\YAP\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.dll
+E:\учёба\visual studio\YAP\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.pdb
+E:\учёба\visual studio\YAP\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.csprojAssemblyReference.cache
+E:\учёба\visual studio\YAP\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.csproj.CoreCompileInputs.cache
+E:\учёба\visual studio\YAP\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.AssemblyInfoInputs.cache
+E:\учёба\visual studio\YAP\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.AssemblyInfo.cs
+E:\учёба\visual studio\YAP\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.dll
+E:\учёба\visual studio\YAP\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.pdb
+E:\учёба\visual studio\YAP\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.genruntimeconfig.cache
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr1\p1\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.exe
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr1\p1\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.deps.json
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr1\p1\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.runtimeconfig.json
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr1\p1\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.runtimeconfig.dev.json
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr1\p1\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.dll
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr1\p1\CreateStruct\bin\Debug\netcoreapp3.1\CreateStruct.pdb
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr1\p1\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.csprojAssemblyReference.cache
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr1\p1\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.csproj.CoreCompileInputs.cache
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr1\p1\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.AssemblyInfoInputs.cache
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr1\p1\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.AssemblyInfo.cs
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr1\p1\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.dll
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr1\p1\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.pdb
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr1\p1\CreateStruct\obj\Debug\netcoreapp3.1\CreateStruct.genruntimeconfig.cache
