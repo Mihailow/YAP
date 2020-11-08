@@ -1,0 +1,6 @@
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr3\p1\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.csprojAssemblyReference.cache
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr3\p1\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.csproj.CoreCompileInputs.cache
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr3\p1\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\bin\Debug\Lesson1-Exercise1-CS.exe
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr3\p1\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\bin\Debug\Lesson1-Exercise1-CS.pdb
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr3\p1\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.exe
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr3\p1\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.pdb
