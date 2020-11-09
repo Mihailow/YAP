@@ -1,0 +1,6 @@
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr5\p2\Lesson2-Serialize-People-CS\Serialize-People\bin\Debug\Serialize-People.exe
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr5\p2\Lesson2-Serialize-People-CS\Serialize-People\bin\Debug\Serialize-People.pdb
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr5\p2\Lesson2-Serialize-People-CS\Serialize-People\obj\Debug\Serialize-People.csprojAssemblyReference.cache
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr5\p2\Lesson2-Serialize-People-CS\Serialize-People\obj\Debug\Serialize-People.csproj.CoreCompileInputs.cache
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr5\p2\Lesson2-Serialize-People-CS\Serialize-People\obj\Debug\Serialize-People.exe
+E:\учёба\2 курс\1 семестр\Языки программирования\YAP\pr5\p2\Lesson2-Serialize-People-CS\Serialize-People\obj\Debug\Serialize-People.pdb
