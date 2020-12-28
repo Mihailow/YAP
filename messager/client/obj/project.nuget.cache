@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bnj2281JDShuWor+RdiVjo1QSRGSG53CLlEqhnOu0DE6S6+QPgNAwjjuaiIyWqbBKrt/pqHufd/rywFvfhgIJg==",
+  "success": true,
+  "projectFilePath": "D:\\учёба\\программы\\messager\\client\\client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nstack.core\\0.14.0\\nstack.core.0.14.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\terminal.gui\\0.90.3\\terminal.gui.0.90.3.nupkg.sha512"
+  ],
+  "logs": []
+}
