@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graph>
+    <graph0 name="A" connection0="B" connection1="E"/>
+    <graph1 name="B" connection0="A" connection1="C" connection2="E"/>
+    <graph2 name="C" connection0="B" connection1="D"/>
+    <graph3 name="D" connection0="C" connection1="E" connection2="F"/>
+    <graph4 name="E" connection0="A" connection1="B" connection2="D"/>
+	<graph5 name="F" connection0="D"/>
+</Graph>
